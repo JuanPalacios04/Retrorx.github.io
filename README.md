@@ -2,10 +2,9 @@
     <head>
         <meta charset="utf-8">
         <title> ElFuturoDeLaTecnologia
-            </title>
-        <style>
+            
              
-             </style>
+
     </head>
     <body>
 
